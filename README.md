@@ -1,8 +1,21 @@
-# React + Vite
+# Ejercicio 13 de React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##
+Web del clima - Dificultad:  🟢🟡🔴
+Crea una aplicación web, que permita escribir una ubicación y un país, luego presione un botón consultar y muestre el clima del lugar ingresado, consultar el clima utilizando la API https://openweathermap.org/. Si la ubicación ingresada no existe, mostrar un cartel de error indicando que no se encontraron datos de la ciudad ingresada.
+##
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>[!NOTE]
+Modo de uso
+Lineas para clonar y correr el proyecto:
+
+- `git clone`
+- `npm install`
+- `npm start`
+
+##
+ >[!IMPORTANT]
+Link Netlify:
+https://react-tp-13-adrian-chanampa.netlify.app/
+
